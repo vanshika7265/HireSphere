@@ -4,7 +4,7 @@
 
 ---
 
-## 🔥 Features
+##  Features
 
 -  **User Authentication (JWT-based)**
 -  **Role Management (Recruiter & Candidate)**
@@ -37,11 +37,7 @@
 - Postman
 
 ---
-### 🛠 Backend Setup
 
-1. Navigate to the `server` directory:
-   ```bash
-   cd server
 
 
 
