@@ -37,9 +37,11 @@
 - Postman
 
 ---
-## 🛠 Backend Setup
-cd server
-npm install
+### 🛠 Backend Setup
+
+1. Navigate to the `server` directory:
+   ```bash
+   cd server
 
 
 
