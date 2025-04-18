@@ -37,7 +37,9 @@
 - Postman
 
 ---
-
+## 🛠 Backend Setup
+cd server
+npm install
 
 
 
